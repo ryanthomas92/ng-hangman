@@ -1,6 +1,5 @@
 <!---
-  market: SF,
-  credit: https://github.com/SF-WDI-LABS/angular_hangman_lab
+  location: SF
 -->
 
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> 
@@ -99,7 +98,7 @@ Add these in the appropriate parts of the html using expressions to get the valu
 
 ### Step 5: Looking Good
 
-The guesses on the page is kinda ugly. Let's fix it.
+The way the guesses are displayed on the page isn't very appealing. Let's fix it.
 
 * change the list of guesses to display using `ng-repeat`
 * improve the looks of anything else as desired
